@@ -21,22 +21,30 @@ A full-stack web application for managing a book store built with the MERN stack
 
 ### Frontend
 
-- **React** 18.2.0 - UI library
-- **Vite** - Build tool and development server
-- **React Router DOM** - Client-side routing
-- **Axios** - HTTP client for API requests
-- **Tailwind CSS** - Utility-first CSS framework
-- **React Icons** - Icon library
-- **Notistack** - Notification system
+<img src="https://skillicons.dev/icons?i=react" title="React" />&#8239;
+<img src="https://skillicons.dev/icons?i=vite" title="Vite" />&#8239;
+<img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS"/>&#8239;
+
+- **React** 18.2.0 – Modern JavaScript library for building user interfaces
+- **Vite** – Fast frontend build tool and local development server
+- **React Router DOM** – Declarative client-side routing for React apps
+- **Axios** – Promise-based HTTP client for seamless API communication
+- **Tailwind CSS** – Utility-first CSS framework for rapid UI development
+- **React Icons** – Popular icon packs as React components
+- **Notistack** – Flexible and customizable notification (snackbar) system for React
 
 ### Backend
 
-- **Node.js** - Runtime environment
-- **Express.js** - Web framework
-- **MongoDB** - NoSQL database
-- **Mongoose** - MongoDB object modeling
-- **CORS** - Cross-origin resource sharing
-- **Nodemon** - Development auto-restart
+<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" />&#8239;
+<img src="https://skillicons.dev/icons?i=express" title="Express.js" />&#8239;
+<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" />&#8239;
+
+- **Node.js** – JavaScript runtime for building fast, scalable server-side applications
+- **Express.js** – Minimal and flexible Node.js web application framework
+- **MongoDB** – High-performance, document-oriented NoSQL database
+- **Mongoose** – Elegant MongoDB object modeling for Node.js, with schema validation
+- **CORS** – Middleware for enabling secure cross-origin resource sharing
+- **Nodemon** – Utility that automatically restarts the server during development
 
 ## Prerequisites
 
@@ -52,7 +60,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/mohammad-taheri1/Book-Store-MERN-Stack.git
+git clone https://github.com/Kisara-k/Book-Store-MERN-Stack.git
 cd Book-Store-MERN-Stack
 ```
 
